@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/llaplante/iOS/blockchain/DrivingRecord/blockchain-web-api/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

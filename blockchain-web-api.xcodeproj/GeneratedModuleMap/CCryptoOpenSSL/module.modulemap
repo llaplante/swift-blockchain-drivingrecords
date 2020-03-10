@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/llaplante/iOS/blockchain/DrivingRecord/blockchain-web-api/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
